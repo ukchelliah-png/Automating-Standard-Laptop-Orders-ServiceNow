@@ -1,0 +1,10 @@
+Project Objective:
+
+The objective of this project is to implement an automated workflow using Flow Designer to facilitate the procurement and configuration of standard laptops. By integrating automation into the process, the project aims to:
+
+Create a seamless experience for users requesting standard laptops by ensuring timely configuration.
+Reduce manual intervention and potential errors in the procurement process.
+Improve resource utilisation within the IT department by optimising task allocation.
+Enhance overall efficiency and productivity in IT procurement operations.
+
+ServiceNow Platform  will use
